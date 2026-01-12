@@ -46,6 +46,7 @@ This repo acts as my **personal learning log**, reference hub, and a way to **le
 * [React Native Package Checker](https://react-native-package-checker.vercel.app/) – Check package compatibility
 * [react-native-performance-limiter](https://github.com/DataDog/react-native-performance-limiter) – Performance protection patterns
 * [react-native-navigation-mode](https://www.npmjs.com/package/react-native-navigation-mode?activeTab=readme) – Detect Android navigation mode
+* [](https://github.com/WadhahEssam/react-native-theme-switch-animation)
 
 ---
 
