@@ -38,6 +38,7 @@ This repo acts as my **personal learning log**, reference hub, and a way to **le
 * [React Native Wrapped 2025 – Callstack](https://www.callstack.com/blog/react-native-wrapped-2025-a-month-by-month-recap-of-the-year)
 * [React Native Wrapped 2025 – Infinite Red](https://shift.infinite.red/react-native-wrapped-2025-the-year-we-entered-our-polishing-era-79c6a3e5b4b7)
 * [React Native: Pros & Cons (Realistic View)](https://medium.com/pagepro/react-native-pros-and-cons-161277424f88)
+* [](https://dev.to/melvinprince/mastering-import-order-in-react-a-deep-dive-into-best-practices-and-tools-43ma?utm_source=chatgpt.com)
 
 ---
 
