@@ -83,3 +83,23 @@ If a resource genuinely helped you in production, feel free to open a PR.
 ## 📌 Inspired By
 
 Learning in public, real-world debugging, and building **maintainable React Native apps**.
+
+
+1. [](https://ignitecookbook.com/)
+2. [](https://reactnative.directory/)
+3. [](https://reactnative.dev/docs/releases/versioning-policy) [](https://reactnative.dev/docs/releases)
+4. [](https://www.callstack.com/blog/react-native-wrapped-2025-a-month-by-month-recap-of-the-year) [](https://shift.infinite.red/react-native-wrapped-2025-the-year-we-entered-our-polishing-era-79c6a3e5b4b7?gi=fd542ab517a0)
+5. [](https://react-native-package-checker.vercel.app/)
+6. [](https://github.com/ReactNativeNews/React-Native-Apps)
+7. [](https://react.dev/learn/separating-events-from-effects)
+8. [](https://medium.com/pagepro/react-native-pros-and-cons-161277424f88)
+9. [](https://github.com/DataDog/react-native-performance-limiter)
+10. [](https://www.youtube.com/watch?v=v8i1IaZ1E94)
+11. [](https://www.npmjs.com/package/react-native-navigation-mode?activeTab=readme)
+12. [](https://github.com/WadhahEssam/react-native-theme-switch-animation)
+13. [](https://dev.to/melvinprince/mastering-import-order-in-react-a-deep-dive-into-best-practices-and-tools-43ma?utm_source=chatgpt.com)
+14. [](https://en.wikipedia.org/wiki/Android_version_history), [](https://en.wikipedia.org/wiki/IOS_version_history)
+15. [](https://rn-gradient.vercel.app/)
+16. [](https://reactnative.dev/docs/security)
+17. [](https://reactnative.dev/docs/performance#using-consolelog-statements)
+
